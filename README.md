@@ -5,3 +5,4 @@
 ![Image text](https://github.com/gao793583308/huawei2020/blob/master/pic/result1.jpg)  
 ## 第二版代码（深搜）: [main_v1.py](https://github.com/gao793583308/huawei2020/blob/master/main_v1.py)
 ![Image text](https://github.com/gao793583308/huawei2020/blob/master/pic/result2.jpg)  
+### [视频讲解](https://m.ixigua.com/group/6815115124836139535/app=video_article&timestamp=1586770840&utm_source=copy_link&utm_medium=android&utm_campaign=client_share)
